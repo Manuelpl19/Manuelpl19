@@ -7,10 +7,10 @@
   <a href="https://manuelpl19.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Ver%20Web%20Oficial-7025f7?style=for-the-badge&logo=firefox" alt="Portfolio" />
   </a>
-  <a href="mailto:PON_TU_EMAIL_AQUI">
+  <a href="mailto:manuelperea10@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/PON_TU_USUARIO_AQUI/">
+  <a href="https://www.linkedin.com/in/manuelperea/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectamos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -22,7 +22,6 @@
 Actualmente estoy en **búsqueda activa de empleo**. Me especializo en crear aplicaciones web completas, desde la base de datos hasta la interfaz de usuario, cuidando tanto el rendimiento como la experiencia visual.
 
 - 🔭 **Trabajando en:** Nuevos proyectos con Microservicios y Arquitectura Hexagonal.
-- 🌱 **Aprendiendo:** Profundizando en Spring Boot (Java) y Data Science (Python).
 - 💼 **Disponible para:** Contratación inmediata o proyectos freelance.
 
 ---
